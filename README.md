@@ -3,6 +3,8 @@ I don’t wait for the perfect app. I build it. A daily AI tutor for Chinese, Da
 
 Try it: https://claude.ai/artifact/CdJZuU1sCfNTPc6iB8hxWf
 
+Product demo: https://www.instagram.com/reel/DfhbAbSu3Hw/?utm_source=ig_web_button_share_sheet&rpxt=MzRlODBiNWFlZA==
+
 # What it does
 
 # The page has four tabs:
