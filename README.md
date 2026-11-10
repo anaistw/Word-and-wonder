@@ -37,7 +37,7 @@ Each weekday has its own theme, so it never feels like the same lesson twice.
 # Build your own
 Everything was made by prompting Claude, without writing code by hand.
 
-The full step-by-step guide and the master prompt are in (Guide).
+The full step-by-step guide and the master prompt are in [Guide.md).
 To make one for another topic, start a new chat with: "Rebuild Word & Wonder, but for [topic]" and attach the guide.
 
 Ideas: interview prep, a daily marketing case study, a book-a-day club.
