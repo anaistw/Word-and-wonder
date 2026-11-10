@@ -13,9 +13,11 @@ Try it: https://claude.ai/artifact/CdJZuU1sCfNTPc6iB8hxWf
 
 # What I get
 Morning: Today's words and a link to the page
+
 Midday:	A playful recall challenge, with no answers
+
 Afternoon:	New example sentences and yesterday's words
-+
+
 Evening	The Brain Food lesson
 
 
@@ -26,18 +28,20 @@ One page, one link. The page never changes address.
 Only its content changes, so I can pin it to my phone's home screen.
 
 A small database behind the page. Each day is saved as one record. 
+
 This is what keeps my history for the Deck.
 
-Scheduled tasks as the "teacher." 
 Each task is a full prompt that runs at a set time, writes the day's lesson and sends me a notification.
 
 Variety on purpose. Cards, chats, debates, poems and quizzes. 
+
 Each weekday has its own theme, so it never feels like the same lesson twice. 
 
 # Build your own
 Everything was made by prompting Claude, without writing code by hand.
 
-The full step-by-step guide and the master prompt are in Guide.md
+The full step-by-step guide and the master prompt are in [Guide.md].
+
 To make one for another topic, start a new chat with: "Rebuild Word & Wonder, but for [topic]" and attach the guide.
 
 Ideas: interview prep, a daily marketing case study, a book-a-day club.
