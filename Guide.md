@@ -29,3 +29,24 @@ Set up scheduled tasks that fill the page at [8:00] and [19:00], and send me a s
 Ask me about anything that's missing before you start.
 
 // Tip: keep it simple at first. You can always say "add a second language" or "change Friday's topic to football" later.
+
+// Tip: If you want Chinese, I added this prompt because the language structure is not the same:
+Please change how each example sentence is shown on the flashcards.
+Remove the Chinese characters for now. Show only pinyin and English.
+Each sentence should have three parts, in this order:
+
+1. The pinyin sentence
+2. The English translation
+3. A word-by-word breakdown: the pinyin words split with " / ", and the English meanings in the same order underneath, also split with " / "
+
+Example:
+Wǒ míngtiān xiàwǔ yǒu yí ge miànshì.
+I have an interview tomorrow afternoon.
+wǒ / míngtiān / xiàwǔ / yǒu / yí ge / miànshì
+I / tomorrow / afternoon / have / an / interview
+
+Rules:
+- Keep the pinyin words in Chinese word order. Don't rearrange them to match English.
+- Each English word must line up with the pinyin word above it, in the same position.
+- Treat multi-syllable words as one word (míngtiān, not míng # tiān).
+- Do this for every example sentence on every card.
